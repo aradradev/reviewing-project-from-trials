@@ -24,9 +24,7 @@ body{
     margin: 8px 0;
 }
 
-#survey-form{
-    width: 50%;
-    
+#survey-form{ width: 50%;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
